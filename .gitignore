@@ -2,9 +2,11 @@
 .env
 .env.local
 .env.*.local
+AirbnbHotel/.env
 
 # Dependencies
 node_modules/
+AirbnbHotel/node_modules/
 package-lock.json
 yarn.lock
 
